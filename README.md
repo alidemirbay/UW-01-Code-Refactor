@@ -36,7 +36,7 @@ Refactoring existing HTML and CSS codes to make the website more accessible
 
 ## Link to the website:
 
-https://alidemirbay.github.io/Web-CodeRefactor/
+https://alidemirbay.github.io/code-refactor/
 
 ## starting codes
 
